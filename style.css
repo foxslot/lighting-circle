@@ -1,0 +1,10 @@
+body {
+    height: 100vh;
+    background: url("/images/temnyj_les_derevia_161710_1920x1080.jpg") center/cover;
+}
+
+#light  {
+    width: 100%;
+    height: 100%;
+    background: none;
+}
